@@ -6,3 +6,7 @@ Requires RSS-CanaveralHD, KerbalKonstructs (fixed version), OSSNTR, and Tundra S
 License CC-BY-NC-SA-4.0.
 
 Configs created by Aviation365
+
+Extra Buildings:
+Many of the pads have changed over the years. Therefore included are all the buildings nessecary, clipped into the ground.
+To adjust the pad configuartions, offset the buildings in the ground by 100 and visible buildings into the the ground depending on the configuartion required.
